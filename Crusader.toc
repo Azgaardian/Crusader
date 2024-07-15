@@ -1,0 +1,17 @@
+## Interface: 11200
+## Author: Azgaardian
+## Title: Crusader |cff007fff -Turtle-|r
+## Notes: Helper for Paldins
+## DefaultState:
+## Dependencies: Ace, Timex
+## OptionalDeps: CompostLib, Metrognome
+## SavedVariables: CrusaderDB
+
+Libs\Metrognome\MetrognomeLib.lua
+Libs\CompostLib\CompostLib.lua
+
+
+
+Crusader.xml
+CrusaderLocals.lua
+Crusader.lua
